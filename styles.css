@@ -1,0 +1,20 @@
+a {
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+.home-title{
+    margin-right: auto;
+    padding: 5px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(185, 187, 204);
+}
+
+h1{
+    background-color: rgb(161, 181, 224);
+}
